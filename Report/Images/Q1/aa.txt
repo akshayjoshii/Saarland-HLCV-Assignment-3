@@ -1,0 +1,2 @@
+Validatation Accuracy is: 81.0 %
+Accuracy of the network on the 1000 test images: 81.69999999999999 %

@@ -1,0 +1,11 @@
+A. Val Accuracy: 64.8
+
+B. Result Comparisons
+Test:
+Accuracy of the best pre-trained network (using Early stopping) on the 1000 test images: 89.5 %
+Accuracy of the network with weights from random init on the 1000 test images: 88.9 %
+
+
+Validation:
+Accuracy of the best pre-trained network (using Early stopping) on the 1000 test images: 89.9 %
+Accuracy of the network with weights from random init on the 1000 test images: 89.1 %
